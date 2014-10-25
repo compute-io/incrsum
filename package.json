@@ -25,7 +25,13 @@
   "keywords": [
     "compute.io",
     "compute",
-    "computation"
+    "computation",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "sum",
+    "incremental"
   ],
   "bugs": {
     "url": "https://github.com/compute-io/incrsum/issues"
