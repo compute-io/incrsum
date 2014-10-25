@@ -21,6 +21,7 @@ To use the module,
 ``` javascript
 var sum = require( 'compute-incrsum' );
 ```
+
 #### incrsum()
 
 Returns an initialized method to compute a sum incrementally.
