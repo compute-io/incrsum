@@ -35,7 +35,8 @@
     "mathematics",
     "math",
     "sum",
-    "incremental"
+    "incremental",
+    "total"
   ],
   "bugs": {
     "url": "https://github.com/compute-io/incrsum/issues"

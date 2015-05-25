@@ -16,8 +16,6 @@ For use in the browser, use [browserify](https://github.com/substack/node-browse
 
 ## Usage
 
-To use the module,
-
 ``` javascript
 var sum = require( 'compute-incrsum' );
 ```
