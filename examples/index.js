@@ -1,3 +1,5 @@
+'use strict';
+
 var incrsum = require( './../lib' );
 
 // Initialize a method to calculate the sum incrementally:
